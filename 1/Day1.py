@@ -24,5 +24,8 @@ def get_full_fuel(bool):
         fuel_sum += get_fuel(temp,bool)
     return fuel_sum
 
+##Answer1
 print(get_full_fuel(False))
+
+##Answer2
 print(get_full_fuel(True))
