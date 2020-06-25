@@ -25,7 +25,7 @@ def get_full_fuel(bool):
     return fuel_sum
 
 ##Answer1
-print(get_full_fuel(False))
+print("Answer 1: " + str(get_full_fuel(False)))
 
 ##Answer2
-print(get_full_fuel(True))
+print("Answer 2: " + str(get_full_fuel(True)))
